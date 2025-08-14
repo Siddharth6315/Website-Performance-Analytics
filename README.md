@@ -11,4 +11,4 @@ This repository contains an exploratory data analysis (EDA) and visualization pr
 5) Which channels are driving more engaged sessions compared to non-engaged ones, and what strategies can improve engagement in underperforming channels?
 6) At what hours of the day does each channel drive the most traffic?
 7) Is there any correlation between high traffic (sessions) and high engagement rate over time?
-# --> Data mining
+# --> 
