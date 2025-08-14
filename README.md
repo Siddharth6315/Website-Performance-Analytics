@@ -37,7 +37,7 @@ Give a short and meaningfull headings to the colunms and drop unnecessary column
    https://github.com/Siddharth6315/Website-Performance-Analytics/blob/main/Channel%20that%20bring%20most%20no%20of%20users.png
 
 3) Which channel has the highest average engagement time, and what does that tell us about user behavior and content effectiveness?<br>
-   Organic Video has the highest average engagement time, showing that video-driven visitors are highly interested and interact longer. Investing more in quality video content can boost engagement
+   Organic Video has the highest average engagement time, showing that video-driven visitors are highly interested and interact longer. Investing more in quality video content can boost engagement<br>https://github.com/Siddharth6315/Website-Performance-Analytics/blob/main/Average%20engagement%20time%20by%20channel.png
 
 4) How does engagement rate vary across different traffic channels?<br>
    Referral, Organic Search, and Organic Social show higher median engagement rates, while Direct is moderate.
