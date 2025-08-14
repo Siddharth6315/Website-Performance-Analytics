@@ -68,7 +68,8 @@ The insights can be used to improve marketing strategies and create better conte
 ---
 
 **Author:** Siddharth Singh  
-📧 Contact: [siddharth77th@gmail.com]  
+📧 Contact: [siddharth77th@gmail.com]  <img width="859" height="514" alt="session over time" src="https://github.com/user-attachments/assets/97d6003a-c8b6-4746-9614-c0ad346749b3" />
+
 
 
 
