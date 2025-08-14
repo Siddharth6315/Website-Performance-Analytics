@@ -29,7 +29,7 @@ Give a short and meaningfull headings to the colunms and drop unnecessary column
 # Key Insights
 1) What patterns or trends can you observe in website sessions and users over time?<br>
    The Maximum User are shown in between 16 to hours when we convert them to exact time than it state that the maximum user are between 10 to 14 hour
-   as shown in the graph https://github.com/Siddharth6315/Website-Performance-Analytics/blob/main/session%20over%20time.png
+   as shown in the graph <a href="https://github.com/Siddharth6315/Website-Performance-Analytics/blob/main/session%20over%20time.png">Maximum Users</a>
 
 2) Which marketing channel brought the highest number of users to the website, and how can we use this insight to improve traffic from other sources?<br>
 
