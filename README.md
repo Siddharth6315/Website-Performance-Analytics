@@ -60,7 +60,7 @@ Unassigned and Organic Video have very low engagement rates, and Email shows ext
    <img width="759" height="414" alt="session over time" src="https://github.com/user-attachments/assets/07898813-817c-4878-b658-fafd950fec08" />
 
    <br>
-## Full Code (Jupyter Notebook) <br> https://github.com/Siddharth6315/Website-Performance-Analytics/blob/main/Website%20Performance.ipynb
+Full Code <br> (Jupyter Notebook) <br> https://github.com/Siddharth6315/Website-Performance-Analytics/blob/main/Website%20Performance.ipynb
 
 ## Conclusion
 This project helped in understanding which channels bring the most traffic, when users are most active, and how engagement varies.  
