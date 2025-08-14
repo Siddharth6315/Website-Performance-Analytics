@@ -41,17 +41,34 @@ Give a short and meaningfull headings to the colunms and drop unnecessary column
 
 4) How does engagement rate vary across different traffic channels?<br>
    Referral, Organic Search, and Organic Social show higher median engagement rates, while Direct is moderate.
-Unassigned and Organic Video have very low engagement rates, and Email shows extreme variability.
+Unassigned and Organic Video have very low engagement rates, and Email shows extreme variability.<br> https://github.com/Siddharth6315/Website-Performance-Analytics/blob/main/engagement%20rate%20distribution.png
 
 5) Which channels are driving more engaged sessions compared to non-engaged ones, and what strategies can improve engagement in underperforming channels?<br>
-   Organic Social, Referral, and Organic Search drive more engaged sessions than non-engaged ones, showing strong content relevance and user interest. In contrast, Direct, Organic Video, and Unassigned channels have higher non-engaged sessions, suggesting the need for better landing page optimization, more compelling video content with clear CTAs, and improved tracking for accurate source attribution.
+   Organic Social, Referral, and Organic Search drive more engaged sessions than non-engaged ones, showing strong content relevance and user interest. In contrast, Direct, Organic Video, and Unassigned channels have higher non-engaged sessions, suggesting the need for better landing page optimization, more compelling video content with clear CTAs, and improved tracking for accurate source attribution. <br> https://github.com/Siddharth6315/Website-Performance-Analytics/blob/main/engaged%20vs%20non%20engaged%20sessions.png
 
 6) At what hours of the day does each channel drive the most traffic?<br>
-   Direct traffic peaks late at night around 23:00, Organic Search is highest at 20:00, and Organic Social sees its largest spike at 19:00. Referral traffic performs best around midday at 11:00, while Organic Video and Unassigned traffic remain relatively low but show minor peaks at 20:00 and 15:00 respectively.
+   Direct traffic peaks late at night around 23:00, Organic Search is highest at 20:00, and Organic Social sees its largest spike at 19:00. Referral traffic performs best around midday at 11:00, while Organic Video and Unassigned traffic remain relatively low but show minor peaks at 20:00 and 15:00 respectively.<br> https://github.com/Siddharth6315/Website-Performance-Analytics/blob/main/Traffic%20by%20Hour%20and%20Channel.png
 
 
 7) Is there any correlation between high traffic (sessions) and high engagement rate over time?<br>
    high traffic and high engagement rate — sessions (blue) fluctuate significantly over time, but the engagement rate (green) remains relatively stable and low,
-   suggesting that more traffic does not necessarily lead to higher engagement.
+   suggesting that more traffic does not necessarily lead to higher engagement.<br>https://github.com/Siddharth6315/Website-Performance-Analytics/blob/main/Engage%20rate%20vs%20Session%20over%20time.png
+   <br>
+## Full Code 
+
+## Conclusion
+This project helped in understanding which channels bring the most traffic, when users are most active, and how engagement varies.  
+The insights can be used to improve marketing strategies and create better content for higher user interaction.
+
+## Next Steps
+- Add more data like location and device for deeper analysis.  
+- Create automated scripts to refresh the analysis.  
+- Make an interactive dashboard for quick tracking.
+
+---
+
+**Author:** Siddharth Singh  
+📧 Contact: [siddharth77th@gmail.com]  
+
 
 
