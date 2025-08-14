@@ -54,7 +54,7 @@ Unassigned and Organic Video have very low engagement rates, and Email shows ext
    high traffic and high engagement rate — sessions (blue) fluctuate significantly over time, but the engagement rate (green) remains relatively stable and low,
    suggesting that more traffic does not necessarily lead to higher engagement.<br>https://github.com/Siddharth6315/Website-Performance-Analytics/blob/main/Engage%20rate%20vs%20Session%20over%20time.png
    <br>
-## Full Code 
+## Full Code (Jupyter Notebook) <br> https://github.com/Siddharth6315/Website-Performance-Analytics/blob/main/Website%20Performance.ipynb
 
 ## Conclusion
 This project helped in understanding which channels bring the most traffic, when users are most active, and how engagement varies.  
