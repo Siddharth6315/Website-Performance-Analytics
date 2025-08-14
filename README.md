@@ -44,7 +44,7 @@ df=df.drop(index=0).reset_index(drop=True)
 
 ## 4) How does engagement rate vary across different traffic channels?<br>
    Referral, Organic Search, and Organic Social show higher median engagement rates, while Direct is moderate.
-Unassigned and Organic Video have very low engagement rates, and Email shows extreme variability.<br> <img width="610" height="459" alt="engagement rate distribution" src="https://github.com/user-attachments/assets/83c81f40-20a5-43db-b832-a5e5bf12fffc" />
+Unassigned and Organic Video have very low engagement rates, and Email shows extreme variability.<br><br><br> <img width="610" height="459" alt="engagement rate distribution" src="https://github.com/user-attachments/assets/83c81f40-20a5-43db-b832-a5e5bf12fffc" />
 
 
 ## 5) Which channels are driving more engaged sessions compared to non-engaged ones, and what strategies can improve engagement in underperforming channels? <br>
