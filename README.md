@@ -15,5 +15,22 @@ This repository contains an exploratory data analysis (EDA) and visualization pr
 # Datasets
 https://github.com/Siddharth6315/Website-Performance-Analytics/blob/main/data-export%20(1).csv
 
-# Datacleaning
+# Datacleaning1) What patterns or trends can you observe in website sessions and users over time?
+1) df.columns = [
+    'ChannelGroup', 'DateHours', 'Users', 'Sessions', 'EngagedSessions',
+    'AvgEngagementTime', 'EngagedSessionsPerUser', 'EventsPerSession', 'EngagementRate', 'EventCount'
+]
+df=df.drop(index=0).reset_index(drop=True)
+Give a short and meaningfull headings to the colunms and drop unnecessary columns
+2) df['DateHours'] = pd.to_datetime(df['DateHours'], format='%Y%m%d%H', errors='coerce')
+   formatted DateHours to yyyymmddhh
+3) df['Hour']=df['DateHours'].dt.hour
+   created new colunm Hour
+# Key Insights
+1) What patterns or trends can you observe in website sessions and users over time?plt.figure(figsize=(10,5))
+The Maximum User are shown in between 16 to hours when we convert them to exact time than it state that the maximum user are between 10 to 14 hour
+2)
+
+   
+
 
